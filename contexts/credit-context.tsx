@@ -63,7 +63,7 @@ export function CreditProvider({ children }: { children: ReactNode }) {
     {
       id: 'TRX5K9M2NLPQ',
       merchant: 'SuperIndi',
-      amount: 127500,
+      amount: 310000,
       date: '28 Nov 2025',
       type: 'debit',
       category: 'Groceries',
